@@ -5,5 +5,8 @@ module.exports = {
     },
     mongodb: {
         dbURI: 'mongodb://hbsoft:hosseinhb69@ds361968.mlab.com:61968/passport'
+    },
+    session: {
+        cookieKey: 'inthenameofgodmanhosseinbajanhastam'
     }
 };
